@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zillay Abbas </h1>
 <h3 align="center">🚀 Software Engineer | Passionate about Scalable Web Applications & Distributed Systems</h3>
 
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">  
-
 I am a dedicated software engineer with over **3.5 years** of experience designing, developing, and optimizing web applications. My expertise spans **Java**, **Spring Boot**, **ReactJS**, **NodeJS**, and **AWS**, enabling me to create scalable and user-friendly solutions.  
 
 🌐 Having worked on diverse projects, I thrive on challenges that push me to innovate, whether it’s architecting distributed systems or integrating third-party APIs.  
