@@ -14,20 +14,6 @@ I am a dedicated software engineer with over **3.5 years** of experience designi
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-
-### Languages & Frameworks  
-- **Java**, **ReactJS**, **NodeJS**, **Kotlin**, **Redux Toolkit**, **ExpressJS**  
-- Backend expertise in **Spring Boot** & **JBoss ESB**  
-
-### Databases  
-- **MySQL**, **MongoDB**, **CouchDB**, **Microsoft SQL Server**  
-
-### Tools & Platforms  
-- **AWS**, **Firebase**, **GitLab**, **ActiveMQ**, **Hazelcast**, **Tomcat**  
-
----
-
 ## 📫 Get in Touch  
 
 - **Email**: zillayabbas98@gmail.com  
